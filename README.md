@@ -8,3 +8,8 @@
 ## Installation
 
 > This will be an VR application that is downloaded and used primarily for the HTC Vive. 
+
+
+## Foundation 
+
+https://docs.godotengine.org/en/3.1/tutorials/vr/vr_starter_tutorial.html
